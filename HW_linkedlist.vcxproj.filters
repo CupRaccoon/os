@@ -18,5 +18,8 @@
     <ClCompile Include="addrman.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="os_hw.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
