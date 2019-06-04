@@ -1,0 +1,13 @@
+﻿  delete.c
+c:\users\gustj\desktop\github\os\hw5\delete.c(20): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  display.c
+  insert.c
+c:\users\gustj\desktop\github\os\hw5\insert.c(9): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  main.c
+  menu.c
+c:\users\gustj\desktop\github\os\hw5\menu.c(6): warning C4101: 'select' :참조되지 않은 지역 변수입니다.
+  quit.c
+c:\users\gustj\desktop\github\os\hw5\quit.c(12): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  search.c
+  코드를 생성하고 있습니다...
+  HW5.vcxproj -> C:\Users\gustj\Desktop\github\os\HW5\Debug\HW5.exe

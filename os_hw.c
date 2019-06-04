@@ -41,7 +41,7 @@ int menuSelect() {
 
 	return num;
 }
-struct ContactPoint *info = NULL;
+
 
 
 
