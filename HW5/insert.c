@@ -11,20 +11,20 @@ void insert() {
 	char schoolnumber[20], name[40], zip[20], address[40];
 
 	printf("schoolnumber : ");
-	scanf("%s", schoolnumber, 20);
-	strcpy(new_info->schoolnumber, 20, schoolnumber);
+	scanf("%s", schoolnumber);
+	strcpy(new_info->schoolnumber,schoolnumber);
 
 	printf("name : ");
-	scanf("%s", name, 40);
-	strcpy(new_info->name, 40, name);
+	scanf("%s", name);
+	strcpy(new_info->name,name);
 
 	printf("zip : ");
-	scanf("%s", zip, 20);
-	strcpy(new_info->zip, 20, zip);
+	scanf("%s", zip);
+	strcpy(new_info->zip,zip);
 
 	printf("address : ");
-	scanf("%s", address, 40);
-	strcpy(new_info->address, 40, address);
+	scanf("%s", address);
+	strcpy(new_info->address,address);
 
 	new_info->next = NULL;
 

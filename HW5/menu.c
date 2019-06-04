@@ -15,7 +15,7 @@ int menuSelect() {
 
 		printf("Enter your choice: ");
 
-		scanf_s("%d", &num);
+		scanf("%d", &num);
 	} while (num < 0 || num > 5);
 
 	return num;

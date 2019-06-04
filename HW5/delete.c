@@ -12,7 +12,7 @@ void delete() {
 
 	char schoolnumber[20];
 	printf("delete for schoolnumber : ");
-	scanf("%s", schoolnumber, 20);
+	scanf("%s", schoolnumber);
 	while (info != NULL) {
 		if (strcmp(info->schoolnumber, schoolnumber) == 0) {
 			if (pre == NULL) {

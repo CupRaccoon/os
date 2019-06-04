@@ -7,7 +7,7 @@ void search() {
 	char schoolnumber[20];
 	printf("search\n");
 	printf("search for schoolnumber : ");
-	scanf("%s", schoolnumber, 20);
+	scanf("%s", schoolnumber);
 	while (info != NULL) {
 		if (strcmp(info->schoolnumber, schoolnumber) == 0) {
 			printf("schoolnumber : %s\n", info->schoolnumber);
