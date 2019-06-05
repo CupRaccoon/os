@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559701259 source:c:\users\user\documents\github\os\doublelinkedlist\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
